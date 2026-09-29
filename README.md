@@ -1,8 +1,8 @@
-# segundo-cerebro-skills
+# Second-Brain
 
 > Skills do Claude que uso no dia a dia para engenharia de dados: Python, Excel, Power BI/DAX/Power Query, dashboards e depuração de código.
 
-Inspirado em repositórios como o [mentor-prompt](https://github.com/guithepc/mentor-prompt), este repositório reúne, de forma pública e reutilizável, algumas das skills do meu "segundo cérebro" — instruções persistentes que carrego para o Claude Code / Claude Skills, para que ele já chegue sabendo como eu gosto que código e análises sejam entregues.
+Este repositório reúne, de forma pública e reutilizável, algumas das skills do meu "segundo cérebro" — instruções persistentes que carrego para o Claude Code / Claude Skills, para que ele já chegue sabendo como eu gosto que código e análises sejam entregues.
 
 Uma **skill** aqui é um arquivo `SKILL.md` com metadados (`name`, `description`) que o Claude carrega automaticamente quando a descrição bate com o pedido, mais arquivos de referência (`references/*.md`) que só são lidos sob demanda — assim a skill principal fica enxuta e os detalhes de cada domínio não poluem todo pedido.
 
