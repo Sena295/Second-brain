@@ -5,7 +5,7 @@
 Este repositório reúne, de forma pública e reutilizável, meu "segundo cérebro" de skills e instruções persistentes que carrego para o Claude Code / Claude Skills, para que ele já chegue sabendo como eu gosto que código, design e análises sejam entregues.
 
 Uma **skill** aqui é uma pasta com um arquivo `SKILL.md` (metadados `name` + `description` no frontmatter, e instruções no corpo) que o Claude carrega automaticamente quando o pedido combina com a descrição — mais, em alguns casos, arquivos de referência ou scripts auxiliares que só são lidos sob demanda.
-Obsidian tambem é uma boa alternativa para adicionar essas skills 
+*Obsidian tambem é uma boa alternativa para adicionar essas skills para dar rastreio e facilidade de informacoes para IA
 
 ## Estrutura
 
